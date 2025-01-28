@@ -2,14 +2,14 @@
 
 ## Team Members
 
-| Name        | CCID   | GitHub Username |
-| ----------- | ------ | --------------- |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
+| Name              | CCID    | GitHub Username       |
+| ----------------- | ------- | --------------------- |
+| Abdul Rafai Ahmad | arahmad | @arahmad-ualberta     |
+| [Full Name]       | [CCID]  | [@username]           |
+| [Full Name]       | [CCID]  | [@username]           |
+| [Full Name]       | [CCID]  | [@username]           |
+| [Full Name]       | [CCID]  | [@username]           |
+| [Full Name]       | [CCID]  | [@username]           |
 
 ## Project Description
 
