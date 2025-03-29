@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProjectCacheCows</string>
+    <string name="app_name_text">Feelink</string>
+    <string name="empty_field">Please fill all fields!</string>
+    <string name="invalid_cred">Invalid credentials</string>
+    <string name="successful_login">Login Successful!</string>
+    <string name="password_no_match">Passwords do not match!</string>
+    <string name="no_image_uploaded">No Image</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search</string>
+    <string name="add_new_mood">Add new mood</string>
+    <string name="search_for_users">Search for users...</string>
+    <string name="search_moods_users">Search moods, users...</string>
+    <string name="search_users">Search users...</string>
+    <string name="back_online">Back Online!</string>
+    <string name="you_are_currently_offline">You are currently offline</string>
+
+</resources>
